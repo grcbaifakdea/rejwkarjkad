@@ -1,1 +1,1 @@
-worker: node cyclone.js
+web: node cyclone.js
